@@ -20,6 +20,11 @@ a:hover {
   color: rgb(65, 43, 15);
 }
 
+.images img {
+  height: 200px;
+  display: inline-block;
+}
+
 .fa {
   padding: 16px;
   text-align: center;
@@ -122,4 +127,16 @@ a:hover {
   font-size: 30px;
   display: flex;
   justify-content: center;
+}
+
+.skills {
+  font-family: "Montserrat";
+  font-size: 30px;
+  display: flex;
+  margin: 4rem;
+  text-decoration: underline;
+}
+
+.images {
+  margin: 4rem;
 }
